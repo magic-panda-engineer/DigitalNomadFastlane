@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 數位游牧快車道</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on 數位游牧快車道</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Nov 2024 16:16:08 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Fastlane</title>
+      <link>http://localhost:1313/post/hello-fastlane/</link>
+      <pubDate>Mon, 04 Nov 2024 16:16:08 +0800</pubDate>
+      <guid>http://localhost:1313/post/hello-fastlane/</guid>
+      <description>&lt;p&gt;這是數位游牧快車道的第一篇文章。希望這個網站可以幫你踏上數位游牧的快車道，讓你的生活更自由、更有意義。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

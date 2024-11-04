@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = '數位游牧快車道'
+theme = 'ananke'
+[params]
+  hero = "images/hero.jpg"
